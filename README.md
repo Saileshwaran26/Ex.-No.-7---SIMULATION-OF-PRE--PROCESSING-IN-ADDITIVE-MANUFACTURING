@@ -44,9 +44,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/user-attachments/assets/38ce4cd1-136f-4101-b844-869f1fac43a5)
 
-### Name:
-### Register Number:
+### Name: Saileshwaran Ganesan
+### Register Number: 24000089
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
